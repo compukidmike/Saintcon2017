@@ -6,4 +6,5 @@ This talk is meant to be a quick and dirty tutorial on making simple PCBs in eag
 Links:
 - Eagle 7.7 Downloads: ftp://ftp.cadsoft.de/eagle/program/7.7/
 - Saintcon Minibadge Library: https://github.com/lukejenkins/minibadge
+- OshPark CAM File: https://raw.githubusercontent.com/OSHPark/OSHPark-Eagle-Tools/master/cam-7.2%2B/oshpark-2layer.cam
 - Sparkfun Libraries: https://github.com/sparkfun/SparkFun-Eagle-Libraries
